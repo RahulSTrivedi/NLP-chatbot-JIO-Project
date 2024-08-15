@@ -19,6 +19,8 @@ Members of the project:
 - Kapil Ahuja
 - Rahul Trivedi
 
+## Instructions to run the file
+
 ```bash
 pip install -r requirements.txt
 
