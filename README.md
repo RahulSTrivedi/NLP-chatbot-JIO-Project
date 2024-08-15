@@ -1,5 +1,5 @@
 # NLP-chatbot-JIO-Project
-this is a group project on NLP chatbot.
+This is a group project on NLP chatbot performed as a part of course outcome in Jio Institute.
 
 # Interactive Recipe Assistant
 
