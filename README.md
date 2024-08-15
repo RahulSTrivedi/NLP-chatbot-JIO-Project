@@ -9,6 +9,7 @@ This project is an Interactive Recipe Assistant designed to provide users with r
 ### Features
 - **Text Responses:** The assistant can respond to user queries with text-based information about recipes.
 - **Speech Responses:** The assistant also has the capability to provide audio responses for a more interactive experience.
+- **YouTube Video Links:** The assistant can show a YouTube video link that provides a tutorial or further help for the requested recipe.
 
 ## Requirements
 To run this project, you need to install the following Python libraries:
