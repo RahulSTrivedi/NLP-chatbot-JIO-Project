@@ -15,9 +15,9 @@ This project is an Interactive Recipe Assistant designed to provide users with r
 To run this project, you need to install the following Python libraries:
 
 Members of the project:
-Anju Venkit
-Kapil Ahuja
-Rahul Trivedi
+- Anju Venkit
+- Kapil Ahuja
+- Rahul Trivedi
 
 ```bash
 pip install -r requirements.txt
